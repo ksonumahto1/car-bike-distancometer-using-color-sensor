@@ -1,1 +1,1 @@
-To build distancometer which uses color sensor and it's technology.
+To build Speedometer which uses color sensor and it's technology using arduino.
